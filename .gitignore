@@ -1,2 +1,26 @@
 /ArquivosZIP
 /Certificados
+
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/ceep/node_modules
+/ceep/.pnp
+/ceep/.pnp.js
+
+# testing
+/ceep//coverage
+
+# production
+/ceep/build
+
+# misc
+/ceep/.DS_Store
+/ceep/.env.local
+/ceep/.env.development.local
+/ceep/.env.test.local
+/ceep/.env.production.local
+
+/ceep/npm-debug.log*
+/ceep/yarn-debug.log*
+/ceep/yarn-error.log*
