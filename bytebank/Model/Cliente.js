@@ -1,10 +1,4 @@
-import { ContaCorrente } from "./ContaCorrente.js";
-
-export class Cliente extends ContaCorrente {
-  nome;
-  _cpf;
-  _rg;
-
+export class Cliente{
   get cpf(){
     return this._cpf;
   }
@@ -13,11 +7,19 @@ export class Cliente extends ContaCorrente {
     return this._rg;
   }
 
-  constructor (nome, cpf, rg, agencia)
+  constructor (nome, cpf, rg)
   {
-    super(agencia);
     this.nome = nome;
     this._cpf = cpf;
     this._rg = rg;
+    this._senha;
+  }
+
+  autenticar(senha){
+    return senha == this._senha;
+  }
+  
+  cadastrarSenha(senha){
+    this._senha = senha;
   }
 }

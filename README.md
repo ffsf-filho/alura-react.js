@@ -1,4 +1,4 @@
-# Cursos Alura
+# Cursos [Alura](https://www.alura.com.br/)
 
 ## [React.JS](https://cursos.alura.com.br/formacao-react-js) - Criando aplicações web modernas com React!
 
@@ -7,8 +7,8 @@
 ### Conteúdo do Curso
 
 1. Programar com JavaScript Orientado a Objtos
-   1. JavaScript: Programando a orientação a Objetos
-   2. JavaScript: Interface e Heranças em Orientação a Objetos
+   1. [JavaScript: Programando a orientação a Objetos](https://github.com/ffsf-filho/alura-react.js/tree/main/bytebank)
+   2. [JavaScript: Interface e Heranças em Orientação a Objetos](https://github.com/ffsf-filho/alura-react.js/tree/main/bytebank)
 2. Lidar com classes components
    1. React: Entendendo como a biblioteca funciona
    2. React: Ciclo de Vida dos componentes
@@ -34,7 +34,7 @@ git clone  https://github.com/ffsf-filho/alura-react.js.git
 
 ---
 
-<table border=none>
+<table>
   <tr>
       <td align="center">
         <a href="https://github.com/ffsf-filho">
