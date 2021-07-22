@@ -10,7 +10,7 @@
    1. [JavaScript: Programando a orientação a Objetos](https://github.com/ffsf-filho/alura-react.js/tree/main/bytebank)
    2. [JavaScript: Interface e Heranças em Orientação a Objetos](https://github.com/ffsf-filho/alura-react.js/tree/main/bytebank)
 2. Lidar com classes components
-   1. React: Entendendo como a biblioteca funciona
+   1. [React: Entendendo como a biblioteca funciona](https://github.com/ffsf-filho/alura-react.js/tree/main/ceep)
    2. React: Ciclo de Vida dos componentes
 3. Utilizar uma abordagem moderna
    1. React: Function components, uma abordagem moderna
