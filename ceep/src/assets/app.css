@@ -1,5 +1,10 @@
 .conteudo {
   display: flex;
+  background-color: var(--fundo-secundario);
+}
+
+.conteudo-principal{
+  flex-grow: 3;
 }
 
 :root {
@@ -7,5 +12,6 @@
   --secundaria: #373f51;
   --secundaria-ativa: #cccccc;
   --fundo: #ffffff;
+  --fundo-secundario: burlywood;
   --fundo-detalhes: #ececec;
 }

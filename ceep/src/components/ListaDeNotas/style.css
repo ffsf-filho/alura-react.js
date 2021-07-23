@@ -1,5 +1,5 @@
 .lista-notas {
-  background-color: var(--fundo);
+  background-color: var(--fundo-secundario);
   flex-grow: 3;
   display: grid;
   grid-template-columns: auto auto auto auto auto;
