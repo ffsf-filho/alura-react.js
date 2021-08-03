@@ -17,7 +17,7 @@
    2. [React: Hooks, Contextos e boas práticas](https://github.com/ffsf-filho/alura-react.js/tree/main/formcadastro)
 4. Conhecer o Ecossistema
    1. [React: Router, Navegação em uma SPA](https://github.com/ffsf-filho/alura-react.js/tree/main/petshop)
-   2. React: Abstraindo seu CSS com Styled Components
+   2. [React: Abstraindo seu CSS com Styled Components](https://github.com/ffsf-filho/alura-react.js/tree/main/bytebankweb)
    3. React: Automatizando os testes em aplicações Front-end
 
 ### Downloading
