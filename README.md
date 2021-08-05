@@ -18,7 +18,7 @@
 4. Conhecer o Ecossistema
    1. [React: Router, Navegação em uma SPA](https://github.com/ffsf-filho/alura-react.js/tree/main/petshop)
    2. [React: Abstraindo seu CSS com Styled Components](https://github.com/ffsf-filho/alura-react.js/tree/main/bytebankweb)
-   3. React: Automatizando os testes em aplicações Front-end
+   3. [React: Automatizando os testes em aplicações Front-end](https://github.com/ffsf-filho/alura-react.js/tree/main/bytebanktestes)
 
 ### Downloading
 
